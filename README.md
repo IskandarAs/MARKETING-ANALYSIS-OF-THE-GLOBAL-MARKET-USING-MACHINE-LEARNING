@@ -6,11 +6,11 @@
 - [x] **Light GBM(Light Gradient Boosting Machine)**
 
 **Problem statement**
-- [x] **Find the best way for sales product**
-- [x] **Create a model to predict Total Profit and evaluate created by the model**
+- [x] **Find the best way to sell a product**
+- [x] **Creating a model to evaluate performance features Total Profit by model**
 - [x] **Forecasting total profit over 5 years by sales channel**
-**Description Methods**
 
+**Description Methods**
 
 
 - [x] **1. Random Forest**
