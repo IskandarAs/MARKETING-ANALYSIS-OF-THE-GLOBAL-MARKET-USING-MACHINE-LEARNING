@@ -1,7 +1,7 @@
 ># Machine-Learning-of-Consumer-Market
 
 **Use advanced Machine Learning Algorithms for consumer market**
-- [x] **Random Forest **
+- [x] **Random Forest**
 - [x] **XGBoost(eXtreme Gradient Boosting)**
 - [x] **Light GBM(Light Gradient Boosting Machine)**
 
