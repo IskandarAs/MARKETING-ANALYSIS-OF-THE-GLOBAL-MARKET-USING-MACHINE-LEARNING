@@ -1,4 +1,6 @@
-># Machine-Learning-of-Consumer-Market
+>## Machine-Learning-of-Consumer-Market
+![alt text](https://truenorthcustom.com/wp-content/uploads/2020/05/4-stages-consumer-behavior-blog.png)
+
 
 **Use advanced Machine Learning Algorithms for consumer market**
 - [x] **Random Forest**
