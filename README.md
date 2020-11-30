@@ -1,6 +1,6 @@
 >## Machine-Learning-of-Consumer-Market
 <p align="center">
-  <img src="https://cdn.goconqr.com/uploads/media/image/9392203/bd87aefc-9f7f-4a52-9982-b5365e3f81db.jpg?raw=true" alt="Sublime's custom image"/>
+  <img src="https://cdn.ihs.com/www/blog/ra-global-business-527035084-post.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
