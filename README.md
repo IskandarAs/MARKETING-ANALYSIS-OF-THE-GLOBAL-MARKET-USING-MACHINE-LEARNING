@@ -1,5 +1,7 @@
 >## Machine-Learning-of-Consumer-Market
-![alt text](https://truenorthcustom.com/wp-content/uploads/2020/05/4-stages-consumer-behavior-blog.png)
+<p align="center">
+  <img src="https://cdn.goconqr.com/uploads/media/image/9392203/bd87aefc-9f7f-4a52-9982-b5365e3f81db.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
 
 
 **Use advanced Machine Learning Algorithms for consumer market**
