@@ -4,7 +4,7 @@
 </p>
 
 
-**Use advanced Machine Learning Algorithms for consumer market**
+**Use advanced Machine Learning Algorithms for Global Market**
 - [x] **Random Forest**
 - [x] **XGBoost(eXtreme Gradient Boosting)**
 - [x] **Light GBM(Light Gradient Boosting Machine)**
