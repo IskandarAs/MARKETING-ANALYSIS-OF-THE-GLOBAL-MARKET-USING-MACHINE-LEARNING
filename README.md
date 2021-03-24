@@ -1,4 +1,4 @@
->## Machine-Learning-of-Consumer-Market
+>## Marketing Analysis of the Global Market using Machine Learning
 <p align="center">
   <img src="https://cdn.ihs.com/www/blog/ra-global-business-527035084-post.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
