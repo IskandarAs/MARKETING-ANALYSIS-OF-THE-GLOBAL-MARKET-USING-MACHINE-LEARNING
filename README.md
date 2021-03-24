@@ -8,10 +8,10 @@
 - [x] **Random Forest**
 - [x] **XGBoost(eXtreme Gradient Boosting)**
 - [x] **Light GBM(Light Gradient Boosting Machine)**
-- [x] **Prophet**
+- [x] **Facebook Prophet**
 
 **Problem statement**
 - [x] **Choosing the most profitable way to sell products on the global market**
 - [x] **Creating a model to evaluate performance features Total Profit by model**
-- [x] **Forecasting the total profit by the historical data**
+- [x] **Global Market forecasting with Facebook Prophet**
 
